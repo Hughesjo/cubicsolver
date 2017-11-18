@@ -1,3 +1,4 @@
+// Josh Hughes
 #include "rootsolver.h"
 
 #include <iostream>
